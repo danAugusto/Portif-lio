@@ -276,3 +276,15 @@ header.scrolled .logo{
     width: 100%;
 
 }
+
+.area-imagem{
+    position: relative;
+    width: 100%;
+    min-height: calc(100% + 120px);
+    
+}
+
+.area-imagem .pessoa{
+    position: absolute;
+    width: 65%;
+}
